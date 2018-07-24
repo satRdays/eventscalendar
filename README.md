@@ -71,8 +71,8 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Additional info: ...
 - Paris, FR
     + Owner: [@colinfay](//github.com/colinfay)
-    + Expected size: ...
-    + Date: 2019 Q1
+    + Expected size: 250
+    + Date: 2019 Q1, late february
     + Additional info: ...
     
 ### US
