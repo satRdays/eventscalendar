@@ -40,7 +40,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays - 2018
 We're currently doing up to two **new** events per region per quarter to help ensure there is an adequate speaker and attendee pool - we will, of course, be upping this limit as time goes on.
 
-### Europe
+### Europe [2/2 slots filled]
 - Amsterdam, NL
     + Owner: [@dkoaning](//github.com/koaning)
     + Expected size: 100
@@ -52,18 +52,18 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: ...
     + Additional info: ...
     
-### US
+### US [1/2 slots filled]
 - Washington DC
     + Owner: [@](//github.com/)
     + Expected size: ...
     + Quarter: ...
     + Additional info: ...
     
-### Rest of World
+### Rest of World [0/2 slots filled]
 
 
 ## New satRdays in January - March 2019
-### Europe
+### Europe [2/2 slots filled]
 - Newcastle, UK
     + Owner: [@csgillespie](//github.com/csgillespie)
     + Expected size: ...
@@ -75,17 +75,17 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q1, late february
     + Additional info: ...
     
-### US
+### US [0/2 slots filled]
 
-### Rest of World
+### Rest of World [1/2 slots filled]
 - Fez, MOR
     + Owner: [@](//github.com)
     + Expected size: ...
     + Date: 2019 Q1
     + Additional info: ...
 
-## New satRdays in April - June 2019
-### Europe
+## New satRdays in April - June 2019 
+### Europe [2/2 slots filled]
 - Gdansk, POL
     + Owner: [@](//github.com/)
     + Expected size: ...
@@ -97,27 +97,27 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q2
     + Additional info: ...
     
-### US
-### Rest of World
+### US [0/2 slots filled]
+### Rest of World [0/2 slots filled]
 
-## New satRdays in July - September 2019
-### Europe
+## New satRdays in July - September 2019 
+### Europe [1/3 slots filled]
 - Bratislavia, SVK
     + Owner: [@](//github.com/)
     + Expected size: ...
     + Date: 2019 Q2
     + Additional info: ...
 
-### US
-### Rest of World
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
 
 ## New satRdays in October - December 2019
-### Europe
-### US
-### Rest of World
+### Europe [0/3 slots filled]
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
 
 
 ## New satRdays in January - March 2020
-### Europe
-### US
-### Rest of World
+### Europe [0/3 slots filled]
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
