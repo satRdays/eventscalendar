@@ -61,7 +61,7 @@ We're currently doing up to two **new** events per region per quarter to help en
     
 ### Rest of World [1/2 slots filled]
 - Santiago, CL
-    + Owner: [@](//github.com/rivaquiroga)
+    + Owner: [@rivaquiroga](//github.com/rivaquiroga)
     + Expected size: 150
     + Date: December 2018
     + Additional info: ...
