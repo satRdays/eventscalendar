@@ -8,7 +8,7 @@ Start the process of reserving your event by submitting a Pull Request of this p
 
 ```
 - Berlin, DE
-    + Owner: [@](//github.com/)
+    + Owner: [@username](//github.com/username)
     + Expected size: ...
     + Date: 2019 Q2
     + Additional info: ...
@@ -54,7 +54,7 @@ We're currently doing up to two **new** events per region per quarter to help en
     
 ### US [1/2 slots filled]
 - Washington DC
-    + Owner: [@](//github.com/)
+    + Owner: [@username](//github.com/username)
     + Expected size: ...
     + Quarter: ...
     + Additional info: ...
@@ -83,7 +83,7 @@ We're currently doing up to two **new** events per region per quarter to help en
 
 ### Rest of World [1/2 slots filled]
 - Fez, MOR
-    + Owner: [@](//github.com)
+    + Owner: [@username](//github.com/username)
     + Expected size: ...
     + Date: 2019 Q1
     + Additional info: ...
@@ -91,12 +91,12 @@ We're currently doing up to two **new** events per region per quarter to help en
 ## New satRdays in April - June 2019 
 ### Europe [2/2 slots filled]
 - Gdansk, POL
-    + Owner: [@](//github.com/)
+    + Owner: [@username](//github.com/username)
     + Expected size: ...
     + Date: 2019 Q2
     + Additional info: ...
 - Berlin, DE
-    + Owner: [@](//github.com/)
+    + Owner: [@username](//github.com/username)
     + Expected size: ...
     + Date: 2019 Q2
     + Additional info: ...
@@ -107,7 +107,7 @@ We're currently doing up to two **new** events per region per quarter to help en
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
 - Bratislavia, SVK
-    + Owner: [@](//github.com/radovankavicky)
+    + Owner: [@radovankavicky](//github.com/radovankavicky)
     + Expected size: 200
     + Date: 2019 Q3
     + Additional info: ...
