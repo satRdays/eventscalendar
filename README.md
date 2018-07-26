@@ -107,9 +107,9 @@ We're currently doing up to two **new** events per region per quarter to help en
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
 - Bratislavia, SVK
-    + Owner: [@](//github.com/)
-    + Expected size: ...
-    + Date: 2019 Q2
+    + Owner: [@](//github.com/radovankavicky)
+    + Expected size: 200
+    + Date: 2019 Q3
     + Additional info: ...
 
 ### US [0/3 slots filled]
