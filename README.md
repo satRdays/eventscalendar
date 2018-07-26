@@ -59,8 +59,12 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Quarter: ...
     + Additional info: ...
     
-### Rest of World [0/2 slots filled]
-
+### Rest of World [1/2 slots filled]
+- Santiago, CL
+    + Owner: [@](//github.com/rivaquiroga)
+    + Expected size: 150
+    + Date: December 2018
+    + Additional info: ...
 
 ## New satRdays in January - March 2019
 ### Europe [2/2 slots filled]
