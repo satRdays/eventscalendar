@@ -45,7 +45,7 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Owner: [@dkoaning](//github.com/koaning)
     + Expected size: 100
     + Date: 1st September 2018
-    + Additional info: [amsterdam2018.satrdays.org]{//amsterdam2018.satrdays.org)
+    + Additional info: [amsterdam2018.satrdays.org](//amsterdam2018.satrdays.org)
 - Belgrade, SRB
     + Owner: [@brankokovac](//github.com/brankokovac)
     + Expected size: ...
