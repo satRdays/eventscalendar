@@ -54,9 +54,9 @@ We're currently doing up to two **new** events per region per quarter to help en
     
 ### US [1/2 slots filled]
 - Washington DC
-    + Owner: [@username](//github.com/username)
-    + Expected size: ...
-    + Quarter: ...
+    + Owner: [@beemyfriend](//github.com/beemyfriend)
+    + Expected size: <200
+    + Quarter: Fall 2018
     + Additional info: ...
     
 ### Rest of World [1/2 slots filled]
