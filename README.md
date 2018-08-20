@@ -1,10 +1,16 @@
 # Events calendar
 A list of available and reserved slots for satRdays so that we can keep track of what's happening around the world. Our events and this repo are subject to our Code of Conduct which you can find alongside info on what the requirements are around running a satRday event on our [knowledge base](//knowledgebase.satrdays.org).
 
-## Contributing
-We're currently doing two new events per "region" per quarter to help ensure events can access a decent speaker and attendee pool. We'll be looking to up the frequency of events as we go and, of course, "rest of world" is pretty darn big so we can probaly bust the limitation immediately if the demand to run events is there. 
+## Event scheduling
+We're currently doing two new events per "region" per quarter to help ensure events can access a decent speaker and attendee pool. 
 
-Start the process of reserving your event by submitting a Pull Request of this page with this info added into the relevant section:
+We'll be looking to up the frequency of events as we go and, of course, "rest of world" is pretty darn big so we can probably bust the limitation immediately if the demand to run events is there. 
+
+We're currently aiming not to clash within region by running on the same months, so if someone in the quarter you're reserving or an annual event already has dibs on a month, try to avoid date clashes.
+
+## Signing up
+1. Read [What's involved](https://knowledgebase.satrdays.org/newevents/) with running an event and what rules / principals you'll need to adhere to
+2. Get the ball rolling on reserving an event slot by submitting a Pull Request of this page with this info added into the relevant section:
 
 ```
 - Berlin, DE
@@ -13,8 +19,6 @@ Start the process of reserving your event by submitting a Pull Request of this p
     + Date: 2019 Q2
     + Additional info: ...
 ```
-
-We're currently aiming not to clash within region by running on the same months, so if someone in the quarter you're reserving or an annual event already has dibs on a month, try to avoid date clashes.
 
 If you would like a hand on submitting a pull request, or want to chat about running an event, join us on [slack](https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY)
 
