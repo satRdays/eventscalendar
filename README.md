@@ -120,7 +120,13 @@ We're currently doing up to two **new** events per region per quarter to help en
 ### Rest of World [0/3 slots filled]
 
 ## New satRdays in October - December 2019
-### Europe [0/3 slots filled]
+### Europe [1/3 slots filled]
+- Geneva, CH
+    + Owner: [@sinarueeger](//github.com/sinarueeger) and [@xvrdm](//github.com/xvrdm)
+    + Expected size: ...
+    + Date: 2019 Q4
+    + Additional info: ...
+    
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
 
