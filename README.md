@@ -105,7 +105,13 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q2
     + Additional info: ...
     
-### US [0/2 slots filled]
+### US [1/2 slots filled]
+- Los Angeles, USA
+    + Owner: [@amy17519](//github.com/amy17519)
+    + Expected size: <200
+    + Quarter: Spring 2019
+    + Additional info: 
+    
 ### Rest of World [0/2 slots filled]
 
 ## New satRdays in July - September 2019 
