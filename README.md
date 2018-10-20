@@ -95,8 +95,8 @@ We're currently doing up to two **new** events per region per quarter to help en
 ## New satRdays in April - June 2019 
 ### Europe [2/2 slots filled]
 - Gdansk, POL
-    + Owner: [@username](//github.com/username)
-    + Expected size: ...
+    + Owner: [@olgnaydn](//github.com/olgnaydn)
+    + Expected size: 150
     + Date: 2019 Q2
     + Additional info: ...
 - Berlin, DE
