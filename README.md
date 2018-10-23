@@ -79,9 +79,9 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Additional info: ...
 - Paris, FR
     + Owner: [@colinfay](//github.com/colinfay)
-    + Expected size: 250
-    + Date: 2019 Q1, late february
-    + Additional info: ...
+    + Expected size: 150
+    + Date: 23th february
+    + Additional info: Location — AgroParisTech
     
 ### US [0/2 slots filled]
 
