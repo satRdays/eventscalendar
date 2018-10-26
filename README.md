@@ -112,7 +112,12 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Quarter: Spring 2019
     + Additional info: 
     
-### Rest of World [0/2 slots filled]
+### Rest of World [1/2 slots filled]
+- Africa
+    + Owner: [@username](//github.com/username)
+    + Expected size: ...
+    + Date: 2019 Q2
+    + Additional info: ...
 
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
