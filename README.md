@@ -96,6 +96,12 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Expected size: ...
     + Date: 2019 Q1
     + Additional info: ...
+    
+ - Kampala, Uganda(East Africa)
+    + Owner: [@markoke](//github.com/markoke)
+    + Expected size: 150
+    + Date: March 2019 Q1
+    + Additional info: ...Finance, Agriculture and Finacial Inclusion
 
 ## New satRdays in April - June 2019 
 ### Europe [2/2 slots filled]
