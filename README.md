@@ -122,6 +122,11 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Expected size: <200
     + Quarter: Spring 2019
     + Additional info: 
+- Chicago, USA
+    + Owner: [@angela-li](//github.com/angela-li)
+    + Expected size: 150-200
+    + Quarter: Spring 2019
+    + Additional info: 
     
 ### Rest of World [0/2 slots filled]
 
