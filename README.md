@@ -116,10 +116,15 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q2
     + Additional info: ...
     
-### US [1/2 slots filled]
+### US [2/2 slots filled]
 - Los Angeles, USA
     + Owner: [@amy17519](//github.com/amy17519)
     + Expected size: <200
+    + Quarter: Spring 2019
+    + Additional info: 
+- Chicago, USA
+    + Owner: [@angela-li](//github.com/angela-li)
+    + Expected size: 150-200
     + Quarter: Spring 2019
     + Additional info: 
     
