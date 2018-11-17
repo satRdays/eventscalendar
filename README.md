@@ -111,8 +111,8 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q2
     + Additional info: ...
 - Berlin, DE
-    + Owner: [@username](//github.com/username)
-    + Expected size: ...
+    + Owner: [@noatamir](//github.com/noatamir)
+    + Expected size: 100
     + Date: 2019 Q2
     + Additional info: ...
     
