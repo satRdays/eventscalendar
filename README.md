@@ -97,7 +97,7 @@ We're currently doing up to two **new** events per region per quarter to help en
 - Gdansk, POL
     + Owner: [@olgnaydn](//github.com/olgnaydn)
     + Expected size: 150
-    + Date: 2019 Q2
+    + Date: 18th of May,2019
     + Additional info: ...
 - Berlin, DE
     + Owner: [@username](//github.com/username)
