@@ -120,8 +120,9 @@ We're currently doing up to two **new** events per region per quarter to help en
 - Los Angeles, USA
     + Owner: [@amy17519](//github.com/amy17519)
     + Expected size: <200
-    + Quarter: Spring 2019
-    + Additional info: 
+    + Quarter: April 6, 2019
+    + Location: UCLA Alumni Center
+    + Additional info: https://losangeles2019.satrdays.org
 - Chicago, USA
     + Owner: [@angela-li](//github.com/angela-li)
     + Expected size: 150-200
