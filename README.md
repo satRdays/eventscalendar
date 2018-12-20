@@ -39,6 +39,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@daroczig](//github.com/daroczig)
     + Expected size: ...
     + Next Date: ...
+    + Additional info: ... 
+- Amsterdam, NL
+    + Owner: [@dkoaning](//github.com/koaning)
+    + Expected size: ...
+    + Next Date: ...
     + Additional info: ...
     
 ## New satRdays - 2018
@@ -79,9 +84,9 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Additional info: ...
 - Paris, FR
     + Owner: [@colinfay](//github.com/colinfay)
-    + Expected size: 250
-    + Date: 2019 Q1, late february
-    + Additional info: ...
+    + Expected size: 150
+    + Date: 23th february
+    + Additional info: Location — AgroParisTech
     
 ### US [0/2 slots filled]
 
@@ -91,6 +96,12 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Expected size: ...
     + Date: 2019 Q1
     + Additional info: ...
+    
+ - Kampala, Uganda(East Africa)
+    + Owner: [@markoke](//github.com/markoke)
+    + Expected size: 150
+    + Date: March 2019 Q1
+    + Additional info: Finance, Agriculture and Finacial Inclusion
 
 ## New satRdays in April - June 2019 
 ### Europe [2/2 slots filled]
@@ -100,15 +111,21 @@ We're currently doing up to two **new** events per region per quarter to help en
     + Date: 2019 Q2
     + Additional info: ...
 - Berlin, DE
-    + Owner: [@username](//github.com/username)
-    + Expected size: ...
+    + Owner: [@noatamir](//github.com/noatamir)
+    + Expected size: 100
     + Date: 2019 Q2
     + Additional info: ...
     
-### US [1/2 slots filled]
+### US [2/2 slots filled]
 - Los Angeles, USA
     + Owner: [@amy17519](//github.com/amy17519)
     + Expected size: <200
+    + Quarter: April 6, 2019
+    + Location: UCLA Alumni Center
+    + Additional info: https://losangeles2019.satrdays.org
+- Chicago, USA
+    + Owner: [@angela-li](//github.com/angela-li)
+    + Expected size: 150-200
     + Quarter: Spring 2019
     + Additional info: 
     
