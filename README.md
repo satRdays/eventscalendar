@@ -134,7 +134,7 @@ We're currently doing up to two **new** events per region per quarter to help en
 - Johannesburg, SA
     + Owner: [@datawookie](//github.com/datawookie)
     + Expected size: 150-200
-    + Next Date: April/May 2019
+    + Next Date: 6 April 2019
     + Additional info:
 
 ## New satRdays in July - September 2019 
