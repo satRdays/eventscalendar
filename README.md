@@ -131,6 +131,12 @@ We're currently doing up to two **new** events per region per quarter to help en
     
 ### Rest of World [0/2 slots filled]
 
+- Johannesburg, SA
+    + Owner: [@datawookie](//github.com/datawookie)
+    + Expected size: 150-200
+    + Next Date: April/May 2019
+    + Additional info:
+
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
 - Bratislavia, SVK
