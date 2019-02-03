@@ -126,8 +126,9 @@ We're currently doing up to two **new** events per region per quarter to help en
 - Chicago, USA
     + Owner: [@angela-li](//github.com/angela-li)
     + Expected size: 150-200
-    + Quarter: Spring 2019
-    + Additional info: 
+    + Quarter: April 27, 2019
+    + Location: Roosevelt University
+    + Additional info: Coming soon!
     
 ### Rest of World [0/2 slots filled]
 
