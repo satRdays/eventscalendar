@@ -165,3 +165,9 @@ We're currently doing up to two **new** events per region per quarter to help en
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
+
+- Auckland, NZ
+    + Owner: [@kimnewzealand](//github.com/kimnewzealand) 
+    + Expected size: ...
+    + Date: 2020 Q1
+    + Additional info: ...
