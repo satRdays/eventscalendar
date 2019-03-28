@@ -33,7 +33,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Cardiff, UK 
     + Owner: [@daveparr](//github.com/daveparr)
     + Expected size: 100
-    + Next Date: planning: 1st or 8th of June 2019
+    + Next Date: planning: September
     + Additional info: ...
 - Budapest, HUN
     + Owner: [@daroczig](//github.com/daroczig)
