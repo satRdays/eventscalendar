@@ -27,54 +27,23 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 - Capetown, SA
     + Owner: [@datawookie](//github.com/datawookie)
-    + Expected size: ...
-    + Next Date: ...
-    + Additional info: ...
 - Cardiff, UK 
     + Owner: [@daveparr](//github.com/daveparr)
-    + Expected size: 100
-    + Next Date: planning: September
-    + Additional info: ...
 - Budapest, HUN
     + Owner: [@daroczig](//github.com/daroczig)
-    + Expected size: ...
-    + Next Date: ...
-    + Additional info: ... 
 - Amsterdam, NL
     + Owner: [@dkoaning](//github.com/koaning)
-    + Expected size: ...
-    + Next Date: ...
-    + Additional info: ...
-    
-## New satRdays - 2018
-We're currently doing up to two **new** events per region per quarter to help ensure there is an adequate speaker and attendee pool - we will, of course, be upping this limit as time goes on.
-
-### Europe [2/2 slots filled]
-- Amsterdam, NL
-    + Owner: [@dkoaning](//github.com/koaning)
-    + Expected size: 100
-    + Date: 1st September 2018
-    + Additional info: [amsterdam2018.satrdays.org](//amsterdam2018.satrdays.org)
 - Belgrade, SRB
     + Owner: [@brankokovac](//github.com/brankokovac)
-    + Expected size: ...
-    + Date: ...
-    + Additional info: ...
-    
-### US [1/2 slots filled]
 - Washington DC
     + Owner: [@beemyfriend](//github.com/beemyfriend)
-    + Expected size: <200
-    + Quarter: Fall 2018
-    + Additional info: ...
-    
-### Rest of World [1/2 slots filled]
 - Santiago, CL
     + Owner: [@rivaquiroga](//github.com/rivaquiroga)
-    + Expected size: 150
-    + Date: December 2018
-    + Additional info: ...
-
+- Paris, FR
+    + Owner: [@colinfay](//github.com/colinfay)
+- Newcastle, UK
+    + Owner: [@csgillespie](//github.com/csgillespie)
+    
 ## New satRdays in January - March 2019
 ### Europe [2/2 slots filled]
 - Newcastle, UK
