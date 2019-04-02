@@ -23,7 +23,7 @@ We're currently aiming not to clash within region by running on the same months,
 If you would like a hand on submitting a pull request, or want to chat about running an event, join us on [slack](https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY)
 
 ## SatRdays that can run on an annual basis
-These are satRdays organiser groups / locations that have already run a satRday and are looking to continue running on an annual basis. By folks running annual events and us increasing the number of new events, we will be growing the numebr of events taaking place each year dramatically.
+These are satRdays organiser groups / locations that have already run a satRday and are looking to continue running on an annual basis. By folks running annual events and us increasing the number of new events, we will be growing the numebr of events taking place each year dramatically.
 
 - Capetown, SA
     + Owner: [@datawookie](//github.com/datawookie)
@@ -43,6 +43,8 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@colinfay](//github.com/colinfay)
 - Newcastle, UK
     + Owner: [@csgillespie](//github.com/csgillespie)
+- Los Angeles, CA, USA
+    + Owner: [@amy17519](//github.com/amy17519)
     
 ## New satRdays in January - March 2019
 ### Europe [2/2 slots filled]
@@ -59,7 +61,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     
 ### US [0/2 slots filled]
 
-### Rest of World [1/2 slots filled]
+### Rest of World [2/2 slots filled]
 - Fez, MOR
     + Owner: [@username](//github.com/username)
     + Expected size: ...
@@ -99,7 +101,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Location: Roosevelt University
     + Additional info: Coming soon!
     
-### Rest of World [0/2 slots filled]
+### Rest of World [1/2 slots filled]
 
 - Johannesburg, SA
     + Owner: [@datawookie](//github.com/datawookie)
@@ -133,7 +135,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays in January - March 2020
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [1/3 slots filled]
 
 - Auckland, NZ
     + Owner: [@kimnewzealand](//github.com/kimnewzealand) 
