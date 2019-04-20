@@ -9,7 +9,7 @@ We'll be looking to up the frequency of events as we go and, of course, "rest of
 We're currently aiming not to clash within region by running on the same months, so if someone in the quarter you're reserving or an annual event already has dibs on a month, try to avoid date clashes.
 
 ## Signing up
-1. Read [What's involved](https://knowledgebase.satrdays.org/newevents/) with running an event and what rules / principals you'll need to adhere to
+1. Read [What's involved](https://knowledgebase.satrdays.org/newevents/) with running an event and what rules / principles you'll need to adhere to
 2. Get the ball rolling on reserving an event slot by submitting a Pull Request of this page with this info added into the relevant section:
 
 ```
@@ -22,58 +22,20 @@ We're currently aiming not to clash within region by running on the same months,
 
 If you would like a hand on submitting a pull request, or want to chat about running an event, join us on [slack](https://join.slack.com/t/rusergroups/shared_invite/enQtMjEyNDA3MzcyMjczLTE3NWEzNjQ3MjZiMWM0OGE2ZWFiZDliNTY4NTJjYWY1NGNjMmNlNDUzNzkzOTZmMDBjYjRiZjFhNjk4MDY0ZGY)
 
-## SatRdays that can run on an annual basis
-These are satRdays organiser groups / locations that have already run a satRday and are looking to continue running on an annual basis. By folks running annual events and us increasing the number of new events, we will be growing the numebr of events taking place each year dramatically.
+## SatRdays that (can) run on an annual basis
+These are satRdays organiser groups / locations that have already run a satRday and are looking to continue running on an annual basis. By folks running annual events and us increasing the number of new events, we will be growing the number of events taking place each year dramatically.
 
-- Capetown, SA
-    + Owner: [@datawookie](//github.com/datawookie)
-- Cardiff, UK 
-    + Owner: [@daveparr](//github.com/daveparr)
-- Budapest, HUN
-    + Owner: [@daroczig](//github.com/daroczig)
-- Amsterdam, NL
-    + Owner: [@dkoaning](//github.com/koaning)
-- Belgrade, SRB
-    + Owner: [@brankokovac](//github.com/brankokovac)
-- Washington DC
-    + Owner: [@beemyfriend](//github.com/beemyfriend)
-- Santiago, CL
-    + Owner: [@rivaquiroga](//github.com/rivaquiroga)
-- Paris, FR
-    + Owner: [@colinfay](//github.com/colinfay)
-- Newcastle, UK
-    + Owner: [@csgillespie](//github.com/csgillespie)
-- Los Angeles, CA, USA
-    + Owner: [@amy17519](//github.com/amy17519)
+- Capetown, SA [@datawookie](//github.com/datawookie)
+- Cardiff, UK  [@daveparr](//github.com/daveparr)
+- Budapest, HUN [@daroczig](//github.com/daroczig)
+- Amsterdam, NL [@dkoaning](//github.com/koaning)
+- Belgrade, SRB [@brankokovac](//github.com/brankokovac)
+- Washington DC [@beemyfriend](//github.com/beemyfriend)
+- Santiago, CL [@rivaquiroga](//github.com/rivaquiroga)
+- Paris, FR [@colinfay](//github.com/colinfay)
+- Newcastle, UK [@csgillespie](//github.com/csgillespie)
+- Los Angeles, CA, USA [@amy17519](//github.com/amy17519)
     
-## New satRdays in January - March 2019
-### Europe [2/2 slots filled]
-- Newcastle, UK
-    + Owner: [@csgillespie](//github.com/csgillespie)
-    + Expected size: ...
-    + Date: 2019 Q1
-    + Additional info: ...
-- Paris, FR
-    + Owner: [@colinfay](//github.com/colinfay)
-    + Expected size: 150
-    + Date: 23th february
-    + Additional info: Location — AgroParisTech
-    
-### US [0/2 slots filled]
-
-### Rest of World [2/2 slots filled]
-- Fez, MOR
-    + Owner: [@username](//github.com/username)
-    + Expected size: ...
-    + Date: 2019 Q1
-    + Additional info: ...
-    
- - Kampala, Uganda(East Africa)
-    + Owner: [@markoke](//github.com/markoke)
-    + Expected size: 150
-    + Date: March 2019 Q1
-    + Additional info: Finance, Agriculture and Finacial Inclusion
-
 ## New satRdays in April - June 2019 
 ### Europe [2/2 slots filled]
 - Gdansk, POL
@@ -108,7 +70,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Expected size: 150-200
     + Next Date: 6 April 2019
     + Additional info:
-
+ - Kampala, Uganda(East Africa)
+    + Owner: [@markoke](//github.com/markoke)
+    + Expected size: 150
+    + Date: May
+    + Additional info: Finance, Agriculture and Finacial Inclusion
+    
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
 - Bratislavia, SVK
