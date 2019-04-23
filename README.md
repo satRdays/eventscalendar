@@ -78,11 +78,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
     
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
-- Bratislavia, SVK
+- Bratislava, SVK
     + Owner: [@radovankavicky](//github.com/radovankavicky)
     + Expected size: 200
-    + Date: 2019 Q3
-    + Additional info: ...
+    + Date: September 28, 2019
+    + Additional info: https://bratislava2019.satrdays.org
 
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
