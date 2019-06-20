@@ -63,7 +63,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Location: Roosevelt University
     + Additional info: https://chicago2019.satrdays.org
     
-### Rest of World [1/2 slots filled]
+### Rest of World [2/2 slots filled]
 
 - Johannesburg, SA
     + Owner: [@datawookie](//github.com/datawookie)
