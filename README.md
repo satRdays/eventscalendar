@@ -36,7 +36,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Newcastle, UK [@csgillespie](//github.com/csgillespie)
 - Los Angeles, CA, USA [@amy17519](//github.com/amy17519)
 - Gdansk, POL [@olgnaydn](//github.com/olgnaydn)
-- Berlin, DE [@noatamir] (//github.com/noatamir)
+- Berlin, DE [@noatamir](//github.com/noatamir)
 - Chicago, USA [@angela-li](//github.com/angela-li)
 - Johannesburg, SA [@datawookie](//github.com/datawookie)
 - Kampala, Uganda(East Africa) [@markoke](//github.com/markoke)
