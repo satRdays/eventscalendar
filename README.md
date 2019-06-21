@@ -35,46 +35,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Paris, FR [@colinfay](//github.com/colinfay)
 - Newcastle, UK [@csgillespie](//github.com/csgillespie)
 - Los Angeles, CA, USA [@amy17519](//github.com/amy17519)
-    
-## New satRdays in April - June 2019 
-### Europe [2/2 slots filled]
-- Gdansk, POL
-    + Owner: [@olgnaydn](//github.com/olgnaydn)
-    + Expected size: 150
-    + Date: 18th of May, 2019
-    + Additional info: ...
-- Berlin, DE
-    + Owner: [@noatamir](//github.com/noatamir)
-    + Expected size: 100
-    + Date: 2019 Q2
-    + Additional info: ...
-    
-### US [2/2 slots filled]
-- Los Angeles, USA
-    + Owner: [@amy17519](//github.com/amy17519)
-    + Expected size: <200
-    + Quarter: April 6, 2019
-    + Location: UCLA Alumni Center
-    + Additional info: https://losangeles2019.satrdays.org
-- Chicago, USA
-    + Owner: [@angela-li](//github.com/angela-li)
-    + Expected size: 150-200
-    + Quarter: April 27, 2019
-    + Location: Roosevelt University
-    + Additional info: https://chicago2019.satrdays.org
-    
-### Rest of World [2/2 slots filled]
-
-- Johannesburg, SA
-    + Owner: [@datawookie](//github.com/datawookie)
-    + Expected size: 150-200
-    + Next Date: 6 April 2019
-    + Additional info:
- - Kampala, Uganda(East Africa)
-    + Owner: [@markoke](//github.com/markoke)
-    + Expected size: 150
-    + Date: May
-    + Additional info: Finance, Agriculture and Finacial Inclusion
+- Gdansk, POL [@olgnaydn](//github.com/olgnaydn)
+- Berlin, DE [@noatamir] (//github.com/noatamir)
+- Chicago, USA [@angela-li](//github.com/angela-li)
+- Johannesburg, SA [@datawookie](//github.com/datawookie)
+- Kampala, Uganda(East Africa) [@markoke](//github.com/markoke)
     
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
