@@ -51,6 +51,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
+- Jakarta, ID
+    + Owner: [@indo-r](//github.com/indo-r)
+    + Expected size: 200
+    + Date: 24-08-2019
+    + Additional info: This event will be held by [Komunitas R Indonesia](//t.me/GNURIndonesia)
 
 ## New satRdays in October - December 2019
 ### Europe [0/3 slots filled]
