@@ -48,6 +48,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Expected size: 200
     + Date: September 28, 2019
     + Additional info: https://bratislava2019.satrdays.org
+    
 
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
@@ -60,7 +61,15 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays in October - December 2019
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [1/3 slots filled]
+
+- Nairobi, Kenya
+    + Owner: [@Shelmith-Kariuki](https://github.com/Shelmith-Kariuki)
+    + Expected size: 150
+    + Date: November 2, 2019
+    + Additional info: ...
+
+
 
 
 ## New satRdays in January - March 2020
