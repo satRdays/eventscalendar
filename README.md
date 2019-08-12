@@ -59,7 +59,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ### Rest of World [1/3 slots filled]
 
 - Nairobi, Kenya
-    + Owner: [@Shelmith-Kariuki](//https://github.com/Shelmith-Kariuki)
+    + Owner: [@Shelmith-Kariuki](https://github.com/Shelmith-Kariuki)
     + Expected size: 150
     + Date: November 2, 2019
     + Additional info: ...
