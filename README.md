@@ -49,6 +49,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: September 28, 2019
     + Additional info: https://bratislava2019.satrdays.org
     
+ - Amsterdam, NLD
+    + Owner: [@RoelMHogervorst](//github.com/rmhogervorst)
+    + Expected size: 100
+    + Date: November 2019
+    + Additional info: https://amsterdam2019.satrdays.org 
+    
 
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
