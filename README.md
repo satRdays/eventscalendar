@@ -64,11 +64,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: 24-08-2019
     + Additional info: This event will be held by [Komunitas R Indonesia](//t.me/GNURIndonesia)
     
-  - Lagos,NG
+ - Lagos,NG
     + Owner: [@alimieyitayo](https://github.com/EYITAY)
     + Expected size: 60
     + Date: 21-09-2019
-    + Additional info: This event will be held at facebook NG Hub 
+    + Additional info: This event will be held at facebook NG Hub.
 
 ## New satRdays in October - December 2019
 ### Europe [0/3 slots filled]
