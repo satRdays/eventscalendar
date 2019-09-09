@@ -103,6 +103,14 @@ These are satRdays organiser groups / locations that have already run a satRday 
     
 ## New satRdays in April - June 2020
 ### Europe [0/3 slots filled]
+
+ - Newcastle, UK
+    + Owner: [@trianglegirl](//github.com/trianglegirl) & [@csgillespie](//github.com/csgillespie)
+    + Expected size: 200
+    + Date: April 4th, 2020
+    + Additional info: https://newcastle2020.satrdays.org 
+
+
 ### US [0/3 slots filled]
 ### Rest of World [1/3 slots filled]
 
