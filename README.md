@@ -43,13 +43,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
-- Bratislava, SVK
-    + Owner: [@radovankavicky](//github.com/radovankavicky)
-    + Expected size: 200
-    + Date: September 28, 2019
-    + Additional info: https://bratislava2019.satrdays.org
-    
- - Amsterdam, NLD
+- Amsterdam, NLD
     + Owner: [@RoelMHogervorst](//github.com/rmhogervorst)
     + Expected size: 100
     + Date: November 2019
@@ -114,6 +108,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
     Expected size: 80-100
     Date: Saturday 5th September
     Additional info: Strand Hotel, Limerick City Centre
+- Bratislava, SVK
+    + Owner: [@radovankavicky](//github.com/radovankavicky)
+    + Expected size: 200
+    + Date: September 26, 2020
+    + Additional info: https://bratislava2020.satrdays.org
 
 ### US [0/3 slots filled]
 ### Rest of World [1/3 slots filled]
