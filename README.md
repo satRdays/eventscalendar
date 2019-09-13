@@ -95,6 +95,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: 2020 Q1
     + Additional info: ...
     
+- Abidjan, CI
+    + Owner: [@ebedthan](//github.com/ebedthan)
+    + Expected size: 100
+    + Date: 2020 Q1
+    + Additional info: ...
+    
 ## New satRdays in April - June 2020
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
