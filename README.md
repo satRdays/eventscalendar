@@ -101,7 +101,8 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ### Rest of World [1/3 slots filled]
 
 ## New satRdays in July - September 2020
-### Europe [0/3 slots filled]
+
+### Europe [2/3 slots filled]
 
 - Limerick, IE
     Owner: [@dragonflystats](www.twitter.com/dragonfystats)
