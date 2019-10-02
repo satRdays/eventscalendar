@@ -51,7 +51,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     
 
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [2/3 slots filled]
 - Jakarta, ID
     + Owner: [@indo-r](//github.com/indo-r)
     + Expected size: 200
@@ -107,7 +107,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: ...
     
 ## New satRdays in April - June 2020
-### Europe [0/3 slots filled]
+### Europe [1/3 slots filled]
 
  - Newcastle, UK
     + Owner: [@trianglegirl](//github.com/trianglegirl) & [@csgillespie](//github.com/csgillespie)
@@ -117,27 +117,30 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 
 ### US [0/3 slots filled]
-### Rest of World [1/3 slots filled]
+### Rest of World [0/3 slots filled]
 
 ## New satRdays in July - September 2020
 
 ### Europe [2/3 slots filled]
 
 - Limerick, IE
-    Owner: [@dragonflystats](www.twitter.com/dragonfystats)
-    Expected size: 80-100
-    Date: Saturday 5th September
-    Additional info: Strand Hotel, Limerick City Centre
+    + Owner: [@dragonflystats](www.twitter.com/dragonfystats)
+    + Expected size: 80-100
+    + Date: Saturday 5th September
+    + Additional info: Strand Hotel, Limerick City Centre
+    + Rooms for Forwards Workshop
+    
 - Bratislava, SVK
     + Owner: [@radovankavicky](//github.com/radovankavicky)
     + Expected size: 200
     + Date: September 26, 2020
     + Additional info: https://bratislava2020.satrdays.org
+    
 
 ### US [0/3 slots filled]
-### Rest of World [1/3 slots filled]
+### Rest of World [0/3 slots filled]
 
 ## New satRdays in October - December 2020
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [1/3 slots filled]
+### Rest of World [0/3 slots filled]
