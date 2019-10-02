@@ -40,6 +40,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Chicago, USA [@angela-li](//github.com/angela-li)
 - Johannesburg, SA [@datawookie](//github.com/datawookie)
 - Kampala, Uganda(East Africa) [@markoke](//github.com/markoke)
+- Taipei, Taiwan [@kristenchan](//github.com/kristenchan)
     
 ## New satRdays in July - September 2019 
 ### Europe [1/3 slots filled]
@@ -119,6 +120,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
 
+ - Taipei, Taiwan
+    + Owner: [@kristenchan](//github.com/kristenchan) 
+    + Expected size: 150
+    + Date: May 16th, 2020
+    + Additional info
+    
 ## New satRdays in July - September 2020
 
 ### Europe [2/3 slots filled]
