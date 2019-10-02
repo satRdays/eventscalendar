@@ -93,7 +93,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: ...
     
 ### US [0/3 slots filled]
-### Rest of World [1/3 slots filled]
+### Rest of World [2/3 slots filled]
 
 - Auckland, NZ
     + Owner: [@kimnewzealand](//github.com/kimnewzealand) 
@@ -118,7 +118,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [1/3 slots filled]
 
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
