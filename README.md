@@ -108,7 +108,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: https://abidjan2020.satrdays.org
     
 - Concepción, Chile
-    + Owner: [@ValenzuelaBeltran] 
+    + Owner: @ValenzuelaBeltran and @maalid
     + Expected size: 100
     + Date: January 11, 2020
     + Additional info: ...
