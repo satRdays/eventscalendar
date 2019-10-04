@@ -97,9 +97,9 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 - Auckland, NZ
     + Owner: [@kimnewzealand](//github.com/kimnewzealand) 
-    + Expected size: ...
-    + Date: 2020 Q1
-    + Additional info: ...
+    + Expected size: 150-200
+    + Date: February 22, 2020
+    + Additional info: https://auckland2020.satrdays.org/
     
 - Abidjan, CI
     + Owner: [@ebedthan](//github.com/ebedthan)
