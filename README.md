@@ -72,9 +72,9 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
  - São Paulo, Brazil
     + Owner: [@beatrizmilz](https://github.com/beatrizmilz) and [@brunaw](https://github.com/brunaw)
-    + Expected size: ...
+    + Expected size: 120
     + Date: November 30, 2019
-    + Additional info: ...
+    + Additional info: https://saopaulo2019.satrdays.org/
 - Nairobi, Kenya
     + Owner: [@Shelmith-Kariuki](https://github.com/Shelmith-Kariuki)
     + Expected size: 150
