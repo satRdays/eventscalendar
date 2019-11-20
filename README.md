@@ -127,6 +127,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ### US [0/3 slots filled]
 ### Rest of World [1/3 slots filled]
 
+ - Melbourne, Australia
+    + Owner: [@psychtek](//github.com/psychtek)
+    + Expected Size: 150
+    + Date: April 2020
+    + Additional info: ...
+
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
     + Expected size: 150
