@@ -125,6 +125,13 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 
 ### US [0/3 slots filled]
+
+ - Chicago, IL
+    + Owner: [@angela-li](//github.com/angela-li) 
+    + Expected size: 150
+    + Date: early May 2020
+    + Additional info
+
 ### Rest of World [1/3 slots filled]
 
  - Taipei, Taiwan
