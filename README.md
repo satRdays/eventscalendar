@@ -123,8 +123,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: April 4th, 2020
     + Additional info: https://newcastle2020.satrdays.org 
 
-
-### US [0/3 slots filled]
+### US [1/3 slots filled]
 
  - Chicago, IL
     + Owner: [@angela-li](//github.com/angela-li) 
@@ -132,12 +131,18 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: early May 2020
     + Additional info
 
-### Rest of World [1/3 slots filled]
+### Rest of World [2/3 slots filled]
 
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
     + Expected size: 150
     + Date: May 16th, 2020
+    + Additional info
+
+ - Santiago, Chile
+    + Owner: [@rivaquiroga](//github.com/rivaquiroga) 
+    + Expected size: ~150
+    + Date: April 18th, 2020
     + Additional info
     
 ## New satRdays in July - September 2020
