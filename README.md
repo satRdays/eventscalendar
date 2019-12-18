@@ -80,7 +80,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 
 ## New satRdays in January - March 2020
-### Europe [2/3 slots filled]
+### Europe [3/3 slots filled]
 - Neuchâtel, CH
     + Owner: [@sinarueeger](https://github.com/sinarueeger), [@xvrdm](https://github.com/xvrdm), [@enricochavez](https://github.com/enricochavez), Elise Dupuis Lozeron
     + Expected size: ~100
@@ -92,6 +92,11 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Expected size: ~100
     + Date: January 18th, 2020
     + Additional info: https://amsterdam2020.satrdays.org/
+
+- Bordeau, FR
+    + Owner: [@colinfay](https://github.com/colinfay), Le Campion Grégoire, Henry Marylène
+    + Expected size: ~100
+    + Date: March 14 2020
     
 ### US [0/3 slots filled]
 ### Rest of World [3/3 slots filled]
