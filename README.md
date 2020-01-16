@@ -175,3 +175,9 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
 ### Rest of World [0/3 slots filled]
+
+- Kathmandu, Nepal
+    + Owner: [@dragonflystats](www.twitter.com/dragonfystats)
+    + Expected size: 80-100
+    + Date: Saturday 3rd October
+    + Additional info: 
