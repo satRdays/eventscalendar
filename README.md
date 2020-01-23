@@ -138,4 +138,10 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays in October - December 2020
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [1/3 slots filled]
+
+- Kathmandu, Nepal
+    + Owner: [@bjungbogati](www.twitter.com/bjungbogati)
+    + Expected size: 80-100
+    + Date: Saturday 3rd October
+    + Additional info: 
