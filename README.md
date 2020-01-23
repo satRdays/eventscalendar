@@ -41,65 +41,35 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Johannesburg, SA [@datawookie](//github.com/datawookie)
 - Kampala, Uganda(East Africa) [@markoke](//github.com/markoke)
 - Taipei, Taiwan [@kristenchan](//github.com/kristenchan)
-    
-## New satRdays in July - September 2019 
-### Europe [1/3 slots filled]
-- Amsterdam, NLD
-    + Owner: [@RoelMHogervorst](//github.com/rmhogervorst)
-    + Expected size: 100
-    + Date: November 2019
-    + Additional info: https://amsterdam2019.satrdays.org 
-    
-
-### US [0/3 slots filled]
-### Rest of World [2/3 slots filled]
-- Jakarta, ID
-    + Owner: [@indo-r](//github.com/indo-r)
-    + Expected size: 200
-    + Date: 24-08-2019
-    + Additional info: This event will be held by [Komunitas R Indonesia](//t.me/GNURIndonesia)
-    
- - Lagos,NG
-    + Owner: [@alimieyitayo](https://github.com/EYITAY)
-    + Expected size: 60
-    + Date: 21-09-2019
-    + Additional info: This event will be held at facebook NG Hub.
-
-## New satRdays in October - December 2019
-### Europe [0/3 slots filled]
-### US [0/3 slots filled]
-### Rest of World [2/3 slots filled]
-
- - São Paulo, Brazil
-    + Owner: [@beatrizmilz](https://github.com/beatrizmilz) and [@brunaw](https://github.com/brunaw)
-    + Expected size: ...
-    + Date: November 30, 2019
-    + Additional info: ...
-- Nairobi, Kenya
-    + Owner: [@Shelmith-Kariuki](https://github.com/Shelmith-Kariuki)
-    + Expected size: 150
-    + Date: November 2, 2019
-    + Additional info: ...
-
-
 
 
 ## New satRdays in January - March 2020
-### Europe [1/3 slots filled]
-- Geneva, CH
-    + Owner: [@sinarueeger](//github.com/sinarueeger) and [@xvrdm](//github.com/xvrdm)
-    + Expected size: ~80
-    + Date: 2020 Q1
-    + Additional info: ...
+### Europe [3/3 slots filled]
+- Neuchâtel, CH
+    + Owner: [@sinarueeger](https://github.com/sinarueeger), [@xvrdm](https://github.com/xvrdm), [@enricochavez](https://github.com/enricochavez), Elise Dupuis Lozeron
+    + Expected size: ~100
+    + Date: March 14 2020
+    + Additional info: Hosted at University of Neuchâtel.
+    
+- Amsterdam, NL
+    + Owner: [@RMHogervorst](https://github.com/RMHogervorst), [@janinekhuc](https://github.com/janinekhuc)
+    + Expected size: ~100
+    + Date: January 18th, 2020
+    + Additional info: https://amsterdam2020.satrdays.org/
+
+- Bordeau, FR
+    + Owner: [@colinfay](https://github.com/colinfay), Le Campion Grégoire, Henry Marylène
+    + Expected size: ~100
+    + Date: March 14 2020
     
 ### US [0/3 slots filled]
-### Rest of World [2/3 slots filled]
+### Rest of World [3/3 slots filled]
 
 - Auckland, NZ
     + Owner: [@kimnewzealand](//github.com/kimnewzealand) 
-    + Expected size: ...
-    + Date: 2020 Q1
-    + Additional info: ...
+    + Expected size: 150-200
+    + Date: February 22, 2020
+    + Additional info: https://auckland2020.satrdays.org/
     
 - Abidjan, CI
     + Owner: [@ebedthan](//github.com/ebedthan)
@@ -108,7 +78,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: https://abidjan2020.satrdays.org
     
 - Concepción, Chile
-    + Owner: @ValenzuelaBeltran and @maalid
+    + Owner: [@ValenzuelaBeltran](//github.com/ValenzuelaBeltran) and [@maalid](//github.com/maalid)
     + Expected size: 100
     + Date: January 11, 2020
     + Additional info: ...
@@ -122,14 +92,26 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: April 4th, 2020
     + Additional info: https://newcastle2020.satrdays.org 
 
+### US [1/3 slots filled]
 
-### US [0/3 slots filled]
-### Rest of World [1/3 slots filled]
+ - Chicago, IL
+    + Owner: [@angela-li](//github.com/angela-li) 
+    + Expected size: 150
+    + Date: early May 2020
+    + Additional info
+
+### Rest of World [2/3 slots filled]
 
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
     + Expected size: 150
     + Date: May 16th, 2020
+    + Additional info
+
+ - Santiago, Chile
+    + Owner: [@rivaquiroga](//github.com/rivaquiroga) 
+    + Expected size: ~150
+    + Date: April 18th, 2020
     + Additional info
     
 ## New satRdays in July - September 2020
@@ -156,4 +138,10 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays in October - December 2020
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [0/3 slots filled]
+### Rest of World [1/3 slots filled]
+
+- Kathmandu, Nepal
+    + Owner: [@bjungbogati](www.twitter.com/bjungbogati)
+    + Expected size: 80-100
+    + Date: Saturday 3rd October
+    + Additional info: 
