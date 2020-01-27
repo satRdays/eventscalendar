@@ -106,7 +106,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@kristenchan](//github.com/kristenchan) 
     + Expected size: 150
     + Date: May 16th, 2020
-    + Additional info
+    + Additional info: https://taiwan2020.satrdays.org/
 
  - Santiago, Chile
     + Owner: [@rivaquiroga](//github.com/rivaquiroga) 
