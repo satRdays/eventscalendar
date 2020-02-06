@@ -104,6 +104,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@malcolmbarrett](//github.com/malcolmbarrett) 
     + Expected size: 200
     + Date: May 2020
+    + Additional info: https://socal2020.satrdays.org 
 
 ### Rest of World [2/3 slots filled]
 
