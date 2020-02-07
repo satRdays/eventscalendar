@@ -34,7 +34,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Santiago, CL [@rivaquiroga](//github.com/rivaquiroga)
 - Paris, FR [@colinfay](//github.com/colinfay)
 - Newcastle, UK [@csgillespie](//github.com/csgillespie)
-- Los Angeles, CA, USA [@amy17519](//github.com/amy17519)
+- Los Angeles, CA, USA [@amy17519](//github.com/amy17519), [@malcolmbarrett](//github.com/malcolmbarrett)
 - Gdansk, POL [@olgnaydn](//github.com/olgnaydn)
 - Berlin, DE [@noatamir](//github.com/noatamir)
 - Chicago, USA [@angela-li](//github.com/angela-li)
@@ -92,13 +92,19 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Expected size: ~100
     + Date: May 16th 2020
 
-### US [1/3 slots filled]
+### US [2/3 slots filled]
 
  - Chicago, IL
     + Owner: [@angela-li](//github.com/angela-li) 
     + Expected size: 150
     + Date: early May 2020
     + Additional info
+
+ - Los Angeles, CA
+    + Owner: [@malcolmbarrett](//github.com/malcolmbarrett) 
+    + Expected size: 200
+    + Date: May 2020
+    + Additional info: https://socal2020.satrdays.org 
 
 ### Rest of World [2/3 slots filled]
 
