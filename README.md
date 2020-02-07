@@ -49,7 +49,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@sinarueeger](https://github.com/sinarueeger), [@xvrdm](https://github.com/xvrdm), [@enricochavez](https://github.com/enricochavez), Elise Dupuis Lozeron
     + Expected size: ~100
     + Date: March 14 2020
-    + Additional info: Hosted at University of Neuchâtel.
+    + Additional info: https://neuchatel2020.satrdays.org/, hosted at University of Neuchâtel.
     
 - Amsterdam, NL
     + Owner: [@RMHogervorst](https://github.com/RMHogervorst), [@janinekhuc](https://github.com/janinekhuc)
