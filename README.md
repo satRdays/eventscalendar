@@ -79,7 +79,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: ...
     
 ## New satRdays in April - June 2020
-### Europe [2/3 slots filled]
+### Europe [3/3 slots filled]
 
  - Newcastle, UK
     + Owner: [@trianglegirl](//github.com/trianglegirl) & [@csgillespie](//github.com/csgillespie)
@@ -91,6 +91,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Owner: [@colinfay](https://github.com/colinfay), Le Campion Grégoire, Henry Marylène
     + Expected size: ~100
     + Date: May 16th 2020
+    
+  - Warsaw, PL
+    + Owner: [@MarcinKosinski](//github.com/MarcinKosinski)
+    + Expected size: 100-200
+    + Date: June 5th 2020
+    + Additional info: https://warsaw2020.satrdays.org     
 
 ### US [2/3 slots filled]
 
