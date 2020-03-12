@@ -98,13 +98,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: June 5th 2020
     + Additional info: https://warsaw2020.satrdays.org     
 
-### US [1/3 slots filled]
-
- - Los Angeles, CA
-    + Owner: [@malcolmbarrett](//github.com/malcolmbarrett) 
-    + Expected size: 200
-    + Date: May 2020
-    + Additional info: https://socal2020.satrdays.org 
+### US [0/3 slots filled]
 
 ### Rest of World [2/3 slots filled]
 
@@ -156,7 +150,14 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ## New satRdays in October - December 2020
 ### Europe [0/3 slots filled]
-### US [0/3 slots filled]
+### US [1/3 slots filled]
+
+ - Los Angeles, CA
+    + Owner: [@malcolmbarrett](//github.com/malcolmbarrett) 
+    + Expected size: 200
+    + Date: Oct 2020
+    + Additional info: https://socal2020.satrdays.org 
+
 ### Rest of World [1/3 slots filled]
 
 - Kathmandu, Nepal
