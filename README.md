@@ -100,13 +100,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ### US [0/3 slots filled]
 
-### Rest of World [2/3 slots filled]
-
- - Taipei, Taiwan
-    + Owner: [@kristenchan](//github.com/kristenchan) 
-    + Expected size: 150
-    + Date: May 16th, 2020
-    + Additional info: https://taiwan2020.satrdays.org/
+### Rest of World [1/3 slots filled]
 
  - Santiago, Chile
     + Owner: [@rivaquiroga](//github.com/rivaquiroga) 
@@ -165,13 +159,19 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: November 2020
     + Additional info:
 
-### Rest of World [1/3 slots filled]
+### Rest of World [2/3 slots filled]
 
 - Kathmandu, Nepal
     + Owner: [@bjungbogati](www.twitter.com/bjungbogati)
     + Expected size: 80-100
     + Date: Saturday 3rd October
     + Additional info: 
+
+ - Taipei, Taiwan
+    + Owner: [@kristenchan](//github.com/kristenchan) 
+    + Expected size: 150
+    + Date: TBA
+    + Additional info: https://taiwan2020.satrdays.org/
 
 ## New satRdays in January - March 2021
 ### Europe [1/3 slots filled]
