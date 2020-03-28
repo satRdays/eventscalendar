@@ -150,13 +150,20 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ## New satRdays in October - December 2020
 ### Europe [0/3 slots filled]
-### US [1/3 slots filled]
+
+### US [2/3 slots filled]
 
  - Los Angeles, CA
     + Owner: [@malcolmbarrett](//github.com/malcolmbarrett) 
     + Expected size: 200
     + Date: Oct 2020
     + Additional info: https://socal2020.satrdays.org 
+
+- Columbus, OH
+    + Owner: [@jdblischak](//github.com/jdblischak)
+    + Expected size: 100-200
+    + Date: November 2020
+    + Additional info:
 
 ### Rest of World [1/3 slots filled]
 
