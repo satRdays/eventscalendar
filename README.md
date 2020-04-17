@@ -130,12 +130,6 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Expected size: 200
     + Date: September 26, 2020
     + Additional info: https://bratislava2020.satrdays.org
-
-- Santiago de Compostela, ES
-    + Owner: [@bea](//github.com/chucheria)
-    + Expected size: 150
-    + Date: September 12th, 2020
-    + Additional info: 
     
 
 ### US [0/3 slots filled]
