@@ -156,8 +156,8 @@ These are satRdays organiser groups / locations that have already run a satRday 
 - Columbus, OH
     + Owner: [@jdblischak](//github.com/jdblischak)
     + Expected size: 100-200
-    + Date: November 2020
-    + Additional info:
+    + Date: November 14, 2020
+    + Additional info: virtual
 
 ### Rest of World [2/3 slots filled]
 
