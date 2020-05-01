@@ -98,7 +98,14 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: June 5th 2020
     + Additional info: https://warsaw2020.satrdays.org     
 
-### US [0/3 slots filled]
+### US [1/3 slots filled]
+
+ - Chicago, IL - virtual!
+    + Owner: [@angela-li](//github.com/angela-li), [@blallen22](//github.com/blallen22), [@tripleplusone](//github.com/tripleplusone), [@rsglazier](//github.com/rsglazier), [@emilyriederer](//github.com/emilyriederer)
+    + Expected size: 150-300
+    + Date: May 30th 2020
+    + Additional info: https://chicago2020.satrdays.org  
+    + Slack: #satrday-chicago
 
 ### Rest of World [1/3 slots filled]
 
