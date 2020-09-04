@@ -168,12 +168,6 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ### Rest of World [2/3 slots filled]
 
-- Kathmandu, Nepal
-    + Owner: [@bjungbogati](www.twitter.com/bjungbogati)
-    + Expected size: 80-100
-    + Date: Saturday 3rd October
-    + Additional info: 
-
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
     + Expected size: 150
