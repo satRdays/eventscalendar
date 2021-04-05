@@ -175,13 +175,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Additional info: https://taiwan2020.satrdays.org/
 
 ## New satRdays in January - March 2021
-### Europe [1/3 slots filled]
-- Birmingham, UK
-    + Owner: [@adfi](https://github.com/adfi)
-    + Expected size: ~50
-    + Date: February 2021
-    + Additional info: hosted at University of Birmingham
-    
+### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
 ### Rest of World [3/3 slots filled]
 
