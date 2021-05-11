@@ -166,7 +166,7 @@ These are satRdays organiser groups / locations that have already run a satRday 
     + Date: November 14, 2020
     + Additional info: virtual
 
-### Rest of World [2/3 slots filled]
+### Rest of World [1/3 slots filled]
 
  - Taipei, Taiwan
     + Owner: [@kristenchan](//github.com/kristenchan) 
@@ -177,5 +177,19 @@ These are satRdays organiser groups / locations that have already run a satRday 
 ## New satRdays in January - March 2021
 ### Europe [0/3 slots filled]
 ### US [0/3 slots filled]
-### Rest of World [3/3 slots filled]
+### Rest of World [0/3 slots filled]
 
+## New satRdays in April - June 2021
+### Europe [0/3 slots filled]
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
+
+## New satRdays in July - September 2021
+### Europe [0/3 slots filled]
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
+
+## New satRdays in October - December 2021
+### Europe [0/3 slots filled]
+### US [0/3 slots filled]
+### Rest of World [0/3 slots filled]
