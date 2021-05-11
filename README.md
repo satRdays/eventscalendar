@@ -191,5 +191,12 @@ These are satRdays organiser groups / locations that have already run a satRday 
 
 ## New satRdays in October - December 2021
 ### Europe [0/3 slots filled]
-### US [0/3 slots filled]
+### US [1/3 slots filled]
+
+- Columbus, OH
+    + Owner: [@jdblischak](//github.com/jdblischak)
+    + Expected size: 100
+    + Date: October 2, 2021
+    + Additional info: virtual
+
 ### Rest of World [0/3 slots filled]
